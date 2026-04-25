@@ -1,4 +1,4 @@
-;; $Source: /Users/x/Dropbox/2/src/chibi-scheme/lib/RCS/entropy.sld,v $
+;; $Source: /home/x/Dropbox/2/src/chibi-scheme/lib/RCS/entropy.sld,v $
 ;; $Date: 2026/04/19 05:04:52 $
 ;; $Revision: 1.3 $
 
